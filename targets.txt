@@ -1,0 +1,7 @@
+make GIT tool ready
+UML DIAGRAMS
+build C# enviroment
+buil angularJS enviroment
+frontEnd: ANGULAR 4 and BOOTSRAP
+backEnd: .net framework
+
